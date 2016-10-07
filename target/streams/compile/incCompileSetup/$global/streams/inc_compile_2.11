@@ -1,0 +1,263 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/fmendez/dev/git/gbif/spark-validation/target/scala-2.11/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.8
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+14 items
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/CountLines.scala -> /Users/fmendez/dev/git/gbif/spark-validation/target/scala-2.11/classes/CountLines$$anonfun$1.class
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/CountLines.scala -> /Users/fmendez/dev/git/gbif/spark-validation/target/scala-2.11/classes/CountLines$$anonfun$2.class
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/CountLines.scala -> /Users/fmendez/dev/git/gbif/spark-validation/target/scala-2.11/classes/CountLines$$anonfun$3$$anonfun$apply$1$$anonfun$apply$2.class
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/CountLines.scala -> /Users/fmendez/dev/git/gbif/spark-validation/target/scala-2.11/classes/CountLines$$anonfun$3$$anonfun$apply$1.class
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/CountLines.scala -> /Users/fmendez/dev/git/gbif/spark-validation/target/scala-2.11/classes/CountLines$$anonfun$3.class
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/CountLines.scala -> /Users/fmendez/dev/git/gbif/spark-validation/target/scala-2.11/classes/CountLines$.class
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/CountLines.scala -> /Users/fmendez/dev/git/gbif/spark-validation/target/scala-2.11/classes/CountLines.class
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/Demo.scala -> /Users/fmendez/dev/git/gbif/spark-validation/target/scala-2.11/classes/Demo$.class
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/Demo.scala -> /Users/fmendez/dev/git/gbif/spark-validation/target/scala-2.11/classes/Demo$NotSerializable.class
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/Demo.scala -> /Users/fmendez/dev/git/gbif/spark-validation/target/scala-2.11/classes/Demo$delayedInit$body.class
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/Demo.scala -> /Users/fmendez/dev/git/gbif/spark-validation/target/scala-2.11/classes/Demo$foo$$anonfun$f$1$$anonfun$apply$1.class
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/Demo.scala -> /Users/fmendez/dev/git/gbif/spark-validation/target/scala-2.11/classes/Demo$foo$$anonfun$f$1.class
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/Demo.scala -> /Users/fmendez/dev/git/gbif/spark-validation/target/scala-2.11/classes/Demo$foo.class
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/Demo.scala -> /Users/fmendez/dev/git/gbif/spark-validation/target/scala-2.11/classes/Demo.class
+binary dependencies:
+8 items
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/CountLines.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/jre/lib/rt.jar
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/CountLines.scala -> /Users/fmendez/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.0.0.jar
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/CountLines.scala -> /Users/fmendez/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/CountLines.scala -> /Users/fmendez/.m2/repository/org/gbif/dwc-api/1.17-SNAPSHOT/dwc-api-1.17-SNAPSHOT.jar
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/CountLines.scala -> /Users/fmendez/.m2/repository/org/gbif/occurrence/occurrence-processor/0.58-SNAPSHOT/occurrence-processor-0.58-SNAPSHOT.jar
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/CountLines.scala -> /Users/fmendez/.m2/repository/org/gbif/validator/validator-core/0.1-SNAPSHOT/validator-core-0.1-SNAPSHOT.jar
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/Demo.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/jre/lib/rt.jar
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/Demo.scala -> /Users/fmendez/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+14 items
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/CountLines.scala -> CountLines
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/CountLines.scala -> CountLines$
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/CountLines.scala -> CountLines$$anonfun$1
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/CountLines.scala -> CountLines$$anonfun$2
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/CountLines.scala -> CountLines$$anonfun$3
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/CountLines.scala -> CountLines$$anonfun$3$$anonfun$apply$1
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/CountLines.scala -> CountLines$$anonfun$3$$anonfun$apply$1$$anonfun$apply$2
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/Demo.scala -> Demo
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/Demo.scala -> Demo$
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/Demo.scala -> Demo$NotSerializable
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/Demo.scala -> Demo$delayedInit$body
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/Demo.scala -> Demo$foo
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/Demo.scala -> Demo$foo$$anonfun$f$1
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/Demo.scala -> Demo$foo$$anonfun$f$1$$anonfun$apply$1
+used names:
+128 items
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/CountLines.scala -> !=
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/CountLines.scala -> $conforms
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/CountLines.scala -> +
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/CountLines.scala -> -
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/CountLines.scala -> /
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/CountLines.scala -> <init>
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/CountLines.scala -> AnyRef
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/CountLines.scala -> Array
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/CountLines.scala -> ClassTag
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/CountLines.scala -> CountLines
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/CountLines.scala -> D
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/CountLines.scala -> DatasetInfoInterpreter
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/CountLines.scala -> E
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/CountLines.scala -> Function1
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/CountLines.scala -> JavaConverters
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/CountLines.scala -> Long
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/CountLines.scala -> Map
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/CountLines.scala -> OccurrenceEvaluatorFactory
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/CountLines.scala -> Predef
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/CountLines.scala -> R
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/CountLines.scala -> SparkConf
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/CountLines.scala -> SparkContext
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/CountLines.scala -> String
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/CountLines.scala -> System
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/CountLines.scala -> TempTermsUtils
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/CountLines.scala -> Term
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/CountLines.scala -> Tuple2
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/CountLines.scala -> Unit
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/CountLines.scala -> _1
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/CountLines.scala -> _2
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/CountLines.scala -> _root_
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/CountLines.scala -> apache
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/CountLines.scala -> apply
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/CountLines.scala -> asJava
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/CountLines.scala -> buildTermMapping
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/CountLines.scala -> cache
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/CountLines.scala -> canBuildFrom
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/CountLines.scala -> closureFunction
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/CountLines.scala -> collect
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/CountLines.scala -> collection
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/CountLines.scala -> conf
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/CountLines.scala -> create
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/CountLines.scala -> currentTimeMillis
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/CountLines.scala -> data
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/CountLines.scala -> dataFile
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/CountLines.scala -> dwc
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/CountLines.scala -> enclosed
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/CountLines.scala -> evaluator
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/CountLines.scala -> evaluatorFactory
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/CountLines.scala -> filter
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/CountLines.scala -> first
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/CountLines.scala -> gbif
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/CountLines.scala -> gen
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/CountLines.scala -> header
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/CountLines.scala -> interpreting
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/CountLines.scala -> java
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/CountLines.scala -> lang
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/CountLines.scala -> line
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/CountLines.scala -> long2Long
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/CountLines.scala -> map
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/CountLines.scala -> mapAsJavaMapConverter
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/CountLines.scala -> materializeClassTag
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/CountLines.scala -> occEvaluator
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/CountLines.scala -> occurrence
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/CountLines.scala -> org
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/CountLines.scala -> package
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/CountLines.scala -> println
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/CountLines.scala -> process
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/CountLines.scala -> processor
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/CountLines.scala -> rawHeader
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/CountLines.scala -> record
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/CountLines.scala -> refArrayOps
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/CountLines.scala -> sc
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/CountLines.scala -> scala
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/CountLines.scala -> setAppName
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/CountLines.scala -> setMaster
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/CountLines.scala -> spark
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/CountLines.scala -> split
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/CountLines.scala -> t0
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/CountLines.scala -> t1
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/CountLines.scala -> terms
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/CountLines.scala -> textFile
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/CountLines.scala -> toMap
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/CountLines.scala -> util
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/CountLines.scala -> validation
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/CountLines.scala -> wrapRefArray
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/CountLines.scala -> zip
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/CountLines.scala -> zipWithIndex
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/Demo.scala -> *
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/Demo.scala -> +
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/Demo.scala -> <init>
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/Demo.scala -> A
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/Demo.scala -> AnyRef
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/Demo.scala -> App
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/Demo.scala -> D
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/Demo.scala -> Demo
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/Demo.scala -> E
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/Demo.scala -> FileOutputStream
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/Demo.scala -> Function1
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/Demo.scala -> Int
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/Demo.scala -> NotSerializable
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/Demo.scala -> ObjectOutputStream
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/Demo.scala -> Predef
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/Demo.scala -> R
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/Demo.scala -> String
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/Demo.scala -> Unit
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/Demo.scala -> _1
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/Demo.scala -> _2
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/Demo.scala -> _root_
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/Demo.scala -> apply
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/Demo.scala -> closureFunction
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/Demo.scala -> enclosed
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/Demo.scala -> f
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/Demo.scala -> fname
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/Demo.scala -> foo
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/Demo.scala -> gen
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/Demo.scala -> io
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/Demo.scala -> java
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/Demo.scala -> n
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/Demo.scala -> ne
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/Demo.scala -> obj
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/Demo.scala -> scala
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/Demo.scala -> unchecked
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/Demo.scala -> v1
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/Demo.scala -> v2
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/Demo.scala -> write
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/Demo.scala -> writeObject
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/Demo.scala -> x
+product stamps:
+14 items
+/Users/fmendez/dev/git/gbif/spark-validation/target/scala-2.11/classes/CountLines$$anonfun$1.class -> lastModified(1475834979000)
+/Users/fmendez/dev/git/gbif/spark-validation/target/scala-2.11/classes/CountLines$$anonfun$2.class -> lastModified(1475834979000)
+/Users/fmendez/dev/git/gbif/spark-validation/target/scala-2.11/classes/CountLines$$anonfun$3$$anonfun$apply$1$$anonfun$apply$2.class -> lastModified(1475834979000)
+/Users/fmendez/dev/git/gbif/spark-validation/target/scala-2.11/classes/CountLines$$anonfun$3$$anonfun$apply$1.class -> lastModified(1475834979000)
+/Users/fmendez/dev/git/gbif/spark-validation/target/scala-2.11/classes/CountLines$$anonfun$3.class -> lastModified(1475834979000)
+/Users/fmendez/dev/git/gbif/spark-validation/target/scala-2.11/classes/CountLines$.class -> lastModified(1475834979000)
+/Users/fmendez/dev/git/gbif/spark-validation/target/scala-2.11/classes/CountLines.class -> lastModified(1475834979000)
+/Users/fmendez/dev/git/gbif/spark-validation/target/scala-2.11/classes/Demo$.class -> lastModified(1475834979000)
+/Users/fmendez/dev/git/gbif/spark-validation/target/scala-2.11/classes/Demo$NotSerializable.class -> lastModified(1475834979000)
+/Users/fmendez/dev/git/gbif/spark-validation/target/scala-2.11/classes/Demo$delayedInit$body.class -> lastModified(1475834979000)
+/Users/fmendez/dev/git/gbif/spark-validation/target/scala-2.11/classes/Demo$foo$$anonfun$f$1$$anonfun$apply$1.class -> lastModified(1475834979000)
+/Users/fmendez/dev/git/gbif/spark-validation/target/scala-2.11/classes/Demo$foo$$anonfun$f$1.class -> lastModified(1475834979000)
+/Users/fmendez/dev/git/gbif/spark-validation/target/scala-2.11/classes/Demo$foo.class -> lastModified(1475834979000)
+/Users/fmendez/dev/git/gbif/spark-validation/target/scala-2.11/classes/Demo.class -> lastModified(1475834979000)
+source stamps:
+2 items
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/CountLines.scala -> hash(9c3b7f6df964efe365fbc562aa2073e64f33f043)
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/Demo.scala -> hash(e3d57d49272e7014ddb70510ec4aaf48d9c87716)
+binary stamps:
+6 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1428689516000)
+/Users/fmendez/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.0.0.jar -> lastModified(1468969501000)
+/Users/fmendez/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar -> lastModified(1457496963000)
+/Users/fmendez/.m2/repository/org/gbif/dwc-api/1.17-SNAPSHOT/dwc-api-1.17-SNAPSHOT.jar -> lastModified(1475823608000)
+/Users/fmendez/.m2/repository/org/gbif/occurrence/occurrence-processor/0.58-SNAPSHOT/occurrence-processor-0.58-SNAPSHOT.jar -> lastModified(1475828809000)
+/Users/fmendez/.m2/repository/org/gbif/validator/validator-core/0.1-SNAPSHOT/validator-core-0.1-SNAPSHOT.jar -> lastModified(1475830344000)
+class names:
+6 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/fmendez/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.0.0.jar -> org.apache.spark.SparkConf
+/Users/fmendez/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar -> scala.App
+/Users/fmendez/.m2/repository/org/gbif/dwc-api/1.17-SNAPSHOT/dwc-api-1.17-SNAPSHOT.jar -> org.gbif.dwc.terms.Term
+/Users/fmendez/.m2/repository/org/gbif/occurrence/occurrence-processor/0.58-SNAPSHOT/occurrence-processor-0.58-SNAPSHOT.jar -> org.gbif.occurrence.processor.interpreting.DatasetInfoInterpreter
+/Users/fmendez/.m2/repository/org/gbif/validator/validator-core/0.1-SNAPSHOT/validator-core-0.1-SNAPSHOT.jar -> org.gbif.occurrence.validation.api.RecordEvaluator
+internal apis:
+2 items
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/CountLines.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHB76WOzAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cPERGBx0AAZub3RpZnlzcQB+AAxmDG6KdAAEd2FpdHNxAH4ADD2d3ml0AA0kYXNJbnN0YW5jZU9mc3EAfgAMO0pQznQABmVxdWFsc3NxAH4ADLWo5ZN0AAxhc0luc3RhbmNlT2ZzcQB+AAy8e0GJdAAMc3luY2hyb25pemVkc3EAfgAMmPISRHQADSRpc0luc3RhbmNlT2ZzcQB+AAz4JcHndAAEbWFpbnNxAH4ADIsr9dp0AAlub3RpZnlBbGxzcQB+AAx5qwEvdAAMaXNJbnN0YW5jZU9mc3EAfgAMfskFnXQACkNvdW50TGluZXNzcQB+AAwSB9WldAACPT1zcQB+AAwWdseHdAAFY2xvbmVzcQB+AAwfuZySdAAPY2xvc3VyZUZ1bmN0aW9uc3EAfgAMi+E8F3QACHRvU3RyaW5nc3EAfgAMLYwGRXQAAiE9c3EAfgAMSCoDhnQACGdldENsYXNzc3EAfgAMT8FPa3QAAm5lc3EAfgAM10so03QAAmVxc3EAfgAMi3cgRnQAAiMjc3EAfgAM/sFlQnQACGZpbmFsaXplc3EAfgAMI4WBrnQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQ3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHEAfgAjdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4AW3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AWgBwc3EAfgBfc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AENMAAlpbmhlcml0ZWRxAH4AQ0wAB3BhcmVudHNxAH4AQ3hxAH4AY3NxAH4AWgBwc3EAfgBfdXEAfgA+AAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBEcQB+AE11cQB+AE4AAAAAc3EAfgBQAHEAfgAddXEAfgBSAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGJ0AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBic3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCAdXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4AbXhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AVXQABVBsYWludAAEYXJnc3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AdFsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AYnNxAH4Ac3QABUFycmF5cQB+AHl1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4Ac3QABlN0cmluZ3NxAH4Ad3NxAH4AenVxAH4AfQAAAANzcQB+AH90AARqYXZhc3EAfgB/dAAEbGFuZ3EAfgCEc3EAfgBaAHBzcQB+AF91cQB+AD4AAAAAc3EAfgBaAHBzcQB+AF91cQB+AJgAAAACc3EAfgBzdAAGT2JqZWN0cQB+AJxzcQB+AHN0AANBbnlxAH4AeXVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFXnp6WL3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEYvVXNlcnMvZm1lbmRlei9kZXYvZ2l0L2diaWYvc3BhcmstdmFsaWRhdGlvbi90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUnDt/bflk7+Nl+8ViqiBz5k8z8EM=
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/Demo.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCaynalAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAIXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cHFcliR0AAZub3RpZnlzcQB+AAznTpQadAAEd2FpdHNxAH4ADEQNteV0AA0kYXNJbnN0YW5jZU9mc3EAfgAMtaWf73QAAW5zcQB+AAxc+kEqdAACdjJzcQB+AAzwL5VgdAAGZXF1YWxzc3EAfgAMjGiOwnQADGFzSW5zdGFuY2VPZnNxAH4ADLBVMUt0AA5leGVjdXRpb25TdGFydHNxAH4ADMzXPaF0AAFmc3EAfgAM0AOzk3QADHN5bmNocm9uaXplZHNxAH4ADL6MLnl0AA0kaXNJbnN0YW5jZU9mc3EAfgAMBUsZyHQABERlbW9zcQB+AAxnLoP0dAAEbWFpbnNxAH4ADHVvSbp0AA9Ob3RTZXJpYWxpemFibGVzcQB+AAzBKXcedAAJbm90aWZ5QWxsc3EAfgAMb5jpmXQAAnYxc3EAfgAMpLOjk3QADGlzSW5zdGFuY2VPZnNxAH4ADHs8tzF0AAY8aW5pdD5zcQB+AAy2C4njdAACPT1zcQB+AAzc29GddAAFY2xvbmVzcQB+AAz2hft3dAAPY2xvc3VyZUZ1bmN0aW9uc3EAfgAM5+8DaXQACHRvU3RyaW5nc3EAfgAMqpyNn3QABGFyZ3NzcQB+AAz72zTxdAACIT1zcQB+AAxXnr1zdAAIZ2V0Q2xhc3NzcQB+AAzsYbSodAACbmVzcQB+AAzA+Db1dAACZXFzcQB+AAwqChTmdAAFd3JpdGVzcQB+AAzOvi2kdAALZGVsYXllZEluaXRzcQB+AAxYxvR2dAACIyNzcQB+AAyDkRuBdAAIZmluYWxpemVzcQB+AAz/vDJzdAAIaGFzaENvZGVzcQB+AAzCVT2ydAADZm9vc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AWXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHEAfgAldXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAnQAEHNjYWxhLmRlcHJlY2F0ZWR0ABpzY2FsYS5kZXByZWNhdGVkT3ZlcnJpZGluZ3NyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4Ac3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AcgBwc3EAfgB3c3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AFlMAAlpbmhlcml0ZWRxAH4AWUwAB3BhcmVudHNxAH4AWXhxAH4Ae3NxAH4AcgBwc3EAfgB3dXEAfgBUAAAAAHNxAH4AcgBwc3EAfgB3dXEAfgBUAAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBacQB+AGN1cQB+AGQAAAABc3IAFHhzYnRpLmFwaS5Bbm5vdGF0aW9u3g6BovZcCrICAAJbAAlhcmd1bWVudHN0AB9bTHhzYnRpL2FwaS9Bbm5vdGF0aW9uQXJndW1lbnQ7TAAEYmFzZXEAfgCIeHB1cgAfW0x4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW50O1Gdpo84JQ94AgAAeHAAAAABc3IAHHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnTWRbHYAxsXfAIAAkwABG5hbWVxAH4ADUwABXZhbHVlcQB+AA14cHQAAHQAKigibWFpbiBzaG91bGQgbm90IGJlIG92ZXJyaWRkZW4iLCIyLjExLjAiKXNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AHp0ABRkZXByZWNhdGVkT3ZlcnJpZGluZ3NyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AenNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AonNxAH4AZgBxAH4AJ3VxAH4AaAAAAABzcQB+AJV0AARVbml0cQB+AJt1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgCIeHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBrdAAFUGxhaW5xAH4AO3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AllsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AenNxAH4AlXQABUFycmF5cQB+AJt1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4AlXQABlN0cmluZ3NxAH4AmXNxAH4AnHVxAH4AnwAAAANzcQB+AKF0AARqYXZhc3EAfgChdAAEbGFuZ3EAfgCmc3EAfgByAHBzcQB+AHd1cQB+AL0AAAAEc3EAfgCVdAADQXBwcQB+AJtzcQB+AJV0AAtEZWxheWVkSW5pdHEAfgCbc3EAfgCVdAAGT2JqZWN0cQB+AMFzcQB+AJV0AANBbnlxAH4Am3VyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFXnp6WL3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEYvVXNlcnMvZm1lbmRlei9kZXYvZ2l0L2diaWYvc3BhcmstdmFsaWRhdGlvbi90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAU49V9SScucBTdtwUQ7EqvSNnIdxY=
+external apis:
+0 items
+source infos:
+2 items
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/CountLines.scala -> 
+AAAAAAAAAAA=
+/Users/fmendez/dev/git/gbif/spark-validation/src/main/scala-2.11/Demo.scala -> 
+AAAAAAAAAAA=
+compilations:
+3 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABV5luVGd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARi9Vc2Vycy9mbWVuZGV6L2Rldi9naXQvZ2JpZi9zcGFyay12YWxpZGF0aW9uL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABV53x5Uh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARi9Vc2Vycy9mbWVuZGV6L2Rldi9naXQvZ2JpZi9zcGFyay12YWxpZGF0aW9uL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABV56eli91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARi9Vc2Vycy9mbWVuZGV6L2Rldi9naXQvZ2JpZi9zcGFyay12YWxpZGF0aW9uL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
