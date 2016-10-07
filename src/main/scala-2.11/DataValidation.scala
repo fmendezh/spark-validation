@@ -10,7 +10,7 @@ import org.gbif.occurrence.validation.evaluator.OccurrenceEvaluatorFactory
 import org.gbif.occurrence.validation.util.TempTermsUtils
 
 
-object CountLines {
+object DataValidation {
   def main(args: Array[String]) {
     val t0 = System.currentTimeMillis();
     val dataFile = "/Users/fmendez/dev/git/gbif/gbif-data-validator/validator-core/src/test/resources/0008759-160822134323880.csvar" // Should be some file on your system
