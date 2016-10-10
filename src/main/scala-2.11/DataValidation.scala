@@ -40,13 +40,13 @@ object DataValidation {
     val idCounts = session.sql("select count(distinct occurrenceid) from occ").collect()
 
     //This is a bit of duplication: runs all the processing
-    val results = data.zipWithIndex().filter(line => line._2 != 0)
-                       .map(line => (line._2,(terms.zip(line._1.split("\t"))).toMap))
+    val results = data.zipWithIndex().filter( {case(line,idx) => idx != 0})
+                       .map({case(line,idx) => (idx,(terms.zip(line.split("\t"))).toMap)})
                        .mapPartitions( partition => {
                          val occEvaluator  = new OccurrenceEvaluatorFactory("http://api.gbif.org/v1/").create(rawHeader)
-                         val newPartition = partition.map(record => {
-                           occEvaluator.process(record._1, record._2.asJava)
-                         }).toList // consumes the iterator, thus calls readMatchingFromDB
+                         val newPartition = partition.map( { case(idx,record) => {
+                                                                occEvaluator.process(idx, record.asJava)}}).toList
+                                                                // consumes the iterator, thus calls readMatchingFromDB
                          newPartition.iterator
                        }).collect()
     val t1 = System.currentTimeMillis();
