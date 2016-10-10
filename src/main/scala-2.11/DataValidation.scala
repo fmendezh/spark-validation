@@ -28,7 +28,7 @@ object DataValidation {
 
     // this is to ensure that each row has the same number as columns as reported in the header
     //RDD[Row] is the data type expected by the session.createDataFrame
-    val rowData: RDD[Row] = data.zipWithIndex().filter(line => line._2 != 0)
+    val rowData: RDD[Row] = data.zipWithIndex().filter({case(_,idx) => idx != 0})
       .map(line => Row.fromSeq(line._1.split("\t").padTo(rawHeader.length,"")))
 
     val ds = session.createDataFrame(rowData,schema)
